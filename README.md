@@ -1,17 +1,22 @@
-# trackbuddy
+# TrackBuddy 🚀
 
-An app to track lecturer
+> Bebas dari ketidakpastian. Maksimalkan waktu kuliahmu.
 
-## Getting Started
+TrackBuddy membantu mahasiswa melacak kehadiran dosen secara real-time dan membentuk kelompok belajar berisi maksimal 5 orang.
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Lacak Kehadiran Dosen**: Cek keberadaan dosen di kampus dan tanda-tanda kehadirannya.
+- 👥 **Cari Teman Belajar**: Gabung atau buat kelompok kecil (maksimal 5 orang) untuk persiapan ujian dan tugas.
+- 📅 **Informasi Mata Kuliah**: Lihat jadwal, detail kelas, dan deskripsi sesi belajar, misalnya jadwal UTS atau tugas.
+- 🔐 **Login Mudah**: Masuk dengan email atau akun Google.
+- 👤 **Profil**: Kelola dan perbarui data akunmu.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 Antarmuka
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Layar | Isi |
+| --- | --- |
+| **Autentikasi** | Halaman login yang bersih dengan opsi Google Auth. |
+| **Dashboard** | Menu cepat ke pelacakan dosen, pencarian teman belajar, dan profil. |
+| **Pencarian Dosen** | Filter berdasarkan nama dosen dan departemen. |
+| **Teman Belajar** | Kartu sesi belajar dengan penanda kapasitas anggota (misalnya 2/5 orang) dan tombol "Ikut dong". |
