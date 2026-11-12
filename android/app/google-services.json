@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512998365184",
+    "project_id": "trackbuddy-9f18e",
+    "storage_bucket": "trackbuddy-9f18e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512998365184:android:354087568ae14447d920e5",
+        "android_client_info": {
+          "package_name": "org.wlsn.trackbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWv__UrrTFVJ4wCbaX-mHGnt5ylI_lsUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
